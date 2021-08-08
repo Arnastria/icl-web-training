@@ -58,7 +58,7 @@
     text-align: center;
     padding: 10px;
     color: #fff;
-    background-image: url("../images/header-bg.jpg");
+    /* background-image: url("../images/header-bg.jpg"); */
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
