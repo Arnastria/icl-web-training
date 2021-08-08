@@ -10,3 +10,7 @@ def example(request):
 
 def name(request):
     return HttpResponse("My Name is Arnas")
+
+
+def example_html(request):
+    return render(request, 'example.html')
